@@ -1,6 +1,3 @@
-getwd()
-setwd("D:\\Desktop\\Master\\Sem 8 - Forecasting\\Assessment 3")
-
 # Install required libraries
 install.packages("ggplot2")
 install.packages("tidyr")
